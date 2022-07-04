@@ -15,4 +15,7 @@ Demo rom usage:
 
 This code was also used in the "GB-Wordyl" game by @bbbbbr: https://github.com/bbbbbr/gb-wordle
 
+/FlashGBX folder contains the profile for the popular FlashGBX program. Copy the fc_DMG_FerranteCrafts_32KBV2.txt
+file into the config folder of FlashGBX, support for the "Ferrante Crafts 32KB V2" cart will appear.
+
 Enjoy.
